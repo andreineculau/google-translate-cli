@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 BIN_PATH=$(readlink -f "$0")
 BIN_DIR=$(dirname "$BIN_PATH")
